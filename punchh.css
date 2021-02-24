@@ -1,0 +1,51 @@
+body {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #111;
+    background-color: #fff;
+    background-image: none;
+}
+
+a:active, .text-link {
+  color: #b11010 !important;
+}
+
+.user-dahboard .iframe-header .navbar-div span a {
+    text-transform: uppercase;
+}
+
+.user-dahboard .iframe-header .navbar-div span.signout-link a {
+    background-color: #b11010;
+}
+
+.iframe-container form .submit-div input {
+    background-color: #b11010;
+    border-radius: 300px;
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.iframe-container form label {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-weight:600;
+}
+
+.iframe-container form input, .iframe-container form textarea {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+}
+
+.password-hint, .current-password-hint {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.ecrm-registration-div select {
+    font-family: futura-pt, sans-serif;
+    font-style: normal;
+}
